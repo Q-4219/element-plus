@@ -8,7 +8,7 @@
 import { ref } from 'vue'
 const count = ref(0)
 const load = () => {
-  count.value += 2
+  count.value += 10
 }
 </script>
 
